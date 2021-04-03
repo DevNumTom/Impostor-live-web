@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.flex-centered-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.justify-space-around {
+  justify-content: space-around;
+}
+
+.justify-center {
+  justify-content: center;
+}
